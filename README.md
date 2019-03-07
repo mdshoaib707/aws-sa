@@ -7,6 +7,7 @@ https://aws.amazon.com/certification/certification-prep/
 
 # Read the following FAQs
 - https://aws.amazon.com/ec2/faqs/ 
+- https://aws.amazon.com/elasticloadbalancing/faqs/
 - https://aws.amazon.com/s3/faqs/
 - https://aws.amazon.com/vpc/faqs/
 - https://aws.amazon.com/route53/faqs/
