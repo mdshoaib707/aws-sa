@@ -4,5 +4,5 @@ Update the developers block with the server IP's, its ssh pem key, ssh user and 
 
 Make a directory and place main.yml in there. After that run the following command which will create the users and give the proper shells.
 ```
-ansible-playbook main.yml
+$ ansible-playbook main.yml
 ```
