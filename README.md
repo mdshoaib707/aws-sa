@@ -1,4 +1,4 @@
-# Cert preparation
+# Certificate preparation
 https://aws.amazon.com/certification/certification-prep/
 
 # Read whitepapers
